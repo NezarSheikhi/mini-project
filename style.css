@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+.hidden {
+    display: none;
+    color:#1a0be4;
+}
+.remove {
+    height: 200px;
+    width: 100%;
+    background-color: rgb(56, 233, 218);
+    color:#1a0be4;
+    text-align: center;
+}
+form {
+    display: inline;
+}
